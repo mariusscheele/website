@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b8336a2e-637d-4a26-b465-9ee91e2fca7e/resourceGroups/FramGolf/providers/Microsoft.Web/sites/kolbotnopen",
+    "appService.deploySubpath": "."
+}
